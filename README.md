@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I coding full day, believe it or not. My latest deal is I'm making as many useful things with PHP and JavaScript Frameworks as humanly possible. I also have some non-coding things that I update on occasion, for example my tech blog.
+I coding full day, believe it or not. My latest deal is I'm making as many useful things with PHP and JavaScript Frameworks as humanly possible. I also have some non-coding things that I update on occasion, for example <a href="http://www.technicalassistent.blogspot.com/"> my tech blog.</a>
 
 I love jokes and musicals. Also watching science fiction movies. I work at Web Mento, too. If you would like to discuss these things, you can follow me on <a href="https://www.twitter.com/akhilh2o">Twitter.</a> You can also ask me anything (within reason).
