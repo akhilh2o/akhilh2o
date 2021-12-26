@@ -6,6 +6,9 @@
 -->
 ### Hey 👋, This is Akhilesh Gupta
 
+[![Gmail Badge](https://img.shields.io/badge/-d.akhil.gupta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:d.akhil.gupta@gmail.com)](mailto:d.akhil.gupta@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-akhilh2o-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilh2o/)](https://www.linkedin.com/in/akhilh2o/) [![Github Badge](https://img.shields.io/badge/-akhilh2o-grey?style=flat&logo=github&logoColor=white&link=https://github.com/akhilh2o/)](https://www.github.com/akhilh2o/) [![Twitter Badge](https://img.shields.io/badge/-akhilh2o-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/akhilh2o/)](https://www.twitter.com/akhilh2o/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://akhilh2o.netlify.com/)](https://akhilh2o.netlify.com/) 
+
 - 🔭 I’m currently working on @laravel / @angular
 - 🌱 I’m currently learning @reactjs
 - 👯 I’m looking to collaborate on @laravel
@@ -16,9 +19,7 @@
 - ⚡ Fun fact: I'm nothing in the world (not physically)
 
 
-[![Gmail Badge](https://img.shields.io/badge/-d.akhil.gupta@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:d.akhil.gupta@gmail.com)](mailto:d.akhil.gupta@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-akhilh2o-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhilh2o/)](https://www.linkedin.com/in/akhilh2o/) [![Github Badge](https://img.shields.io/badge/-akhilh2o-grey?style=flat&logo=github&logoColor=white&link=https://github.com/akhilh2o/)](https://www.github.com/akhilh2o/) [![Twitter Badge](https://img.shields.io/badge/-akhilh2o-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/akhilh2o/)](https://www.twitter.com/akhilh2o/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://akhilh2o.netlify.com/)](https://akhilh2o.netlify.com/) 
-## Some of my Github Stats
+### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=akhilh2o alt=akhilh2o /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=akhilh2o&show_icons=true&include_all_commits=true)](https://github.com/akhilh2o/github-readme-stats)
